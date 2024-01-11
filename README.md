@@ -1,1 +1,1 @@
-# Django와 Celery + RabbitMQ로 이루어진 Example 예제입니다.
+# Django와 Celery + RabbitMQ로 이루어진 예제입니다.
